@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/niteshtiwari07/LC_soln/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/niteshtiwari07/LC_soln/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/niteshtiwari07/LC_soln/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/niteshtiwari07/LC_soln/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/niteshtiwari07/LC_soln/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
