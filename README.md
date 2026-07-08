@@ -5,7 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # LeetCode Topics
 ## String
 |  |
-| ------- |
+| ------- | 
 | [0058-length-of-last-word](https://github.com/niteshtiwari07/LC_soln/tree/master/0058-length-of-last-word) |
 ## Database
 |  |
