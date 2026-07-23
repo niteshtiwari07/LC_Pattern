@@ -1,0 +1,15 @@
+1class Solution {
+2public:
+3    string removeDuplicates(string s) {
+4        string ans = "";
+5
+6        for(char ch : s){
+7            if(ans.empty() || ch != ans.back()){
+8                ans.push_back(ch);            
+9        }else{
+10            ans.pop_back();
+11        }
+12        }
+13        return ans;
+14    }
+15};
