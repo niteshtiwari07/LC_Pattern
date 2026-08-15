@@ -1,0 +1,12 @@
+1class Solution {
+2public:
+3    int elevatorRequests(int n, vector<int>& requests) {
+4        int currentfloor = 0;
+5        int totaltime = 0;
+6        for(int floor : requests){
+7            totaltime += abs (currentfloor - floor);
+8            currentfloor = floor;
+9        }
+10        return totaltime;
+11    }
+12};
